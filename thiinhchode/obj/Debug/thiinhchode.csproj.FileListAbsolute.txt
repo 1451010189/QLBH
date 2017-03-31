@@ -1,1 +1,2 @@
 C:\Users\Asus\Desktop\thiinhchode\bin\Debug\thiinhchode.exe.config
+C:\Users\Administrator\Desktop\QLBH\QLBH\thiinhchode\bin\Debug\thiinhchode.exe.config
